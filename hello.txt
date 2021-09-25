@@ -1,7 +1,14 @@
+<<<<<<< HEAD
 hello git! hello atguigu! 222222
 hello git! hello atguigu! 333333
 hello git! hello atguigu! 444444
 hello git! hello atguigu!
+=======
+hello git! hello atguigu!
+hello git! hello atguigu!
+hello git! hello atguigu!
+hello git! hello atguigu! 5555
+>>>>>>> hot-fix
 hello git! hello atguigu!
 hello git! hello atguigu!
 hello git! hello atguigu!
